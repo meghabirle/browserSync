@@ -1,0 +1,1 @@
+function change(o){$("button").css("color","red"),$.ajax({method:"POST",url:"localhost/test/lorem",success:function(){console.log(" req has been done success")},error:function(o){console.log(o)}})}
