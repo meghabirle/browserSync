@@ -13,7 +13,7 @@
      </div>  
  
 
-     This is our main page for website ... lorem ipsum is a simlpy test
+     This is our main page for website ... A change made by another user...
    <ul><li>dshdi</li><li>yyyyy</li></ul>   
    </body>
 
